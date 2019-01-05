@@ -1,4 +1,4 @@
-Demo Link [Demo](https://sandippal7007.github.io/Speech-Based-E-commerce/)
+Demo Link [Demo](https://sandip-fullstack.github.io/Speech-Based-E-commerce/)
 
 This is a very basic E-commerce site with some dummy items. The interesting part of this project is that the site can be controlled using your own voice command. You can Sort items based on price, date. You can search your favourites items also.
 You can buy items(offcourse not in real).
